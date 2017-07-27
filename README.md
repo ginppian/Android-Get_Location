@@ -7,6 +7,10 @@ Android Get Current Location
 
 ## Definición
 
+<p align="justify">
+	Aplicación que encuentra tu ubicación.
+</p>
+
 ## Fuentes
 <a href="https://www.youtube.com/watch?v=mdCRxEn540U">Integrar Mapas Android - Parte 1</a>
 <br>
