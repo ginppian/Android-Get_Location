@@ -2,7 +2,7 @@ Android Get Current Location
 ============================
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ginppian/Android-Get_Location/master/imgs/img1.png" width="540" height="960">
+	<img src="https://raw.githubusercontent.com/ginppian/Android-Get_Location/master/imgs/img1.png" width="270" height="480">
 </p>
 
 ## Definición
